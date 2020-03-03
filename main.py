@@ -23,6 +23,15 @@ print("what the hell")
 print("how do you pull")
 print("sure", "why not")
 print("make sure", end="setup")
+A=7
+print (A)
+print(A==7)
+print(A)
+print (A==7)
+B="Luigi"
+print("Hello",B)
+C="Olga"
+print("Hello", B,"and", C)
 
 
 
