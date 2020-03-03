@@ -21,6 +21,8 @@ print("we can print a list of items: dog", "cat", "mouse", "elephant", "moose", 
 print("This is the end for the", "print", "examples", end=". See you next time!")
 print("what the hell")
 print("how do you pull")
+print("sure", "why not")
+print("make sure", end="setup")
 
 
 
