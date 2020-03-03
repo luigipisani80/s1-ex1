@@ -20,6 +20,7 @@ print("we can print a list of items: dog", "cat", "mouse", "elephant", "moose", 
 # \n means the newline character, so it instructs the print to start from a newline afterwards
 print("This is the end for the", "print", "examples", end=". See you next time!")
 print("what the hell")
+print("how do you pull")
 
 
 
