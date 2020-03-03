@@ -1,4 +1,4 @@
-# this is a comment in py
+ # this is a comment in py
 # you can add as many as you like
 # some more print examples
 print("Hello")
@@ -19,6 +19,8 @@ print("we can print a list of items: dog", "cat", "mouse", "elephant", "moose", 
       end="! just one exclamation for moose\n")
 # \n means the newline character, so it instructs the print to start from a newline afterwards
 print("This is the end for the", "print", "examples", end=". See you next time!")
+print("what the hell")
+
 
 
 # Also check out the readme.md file :)
